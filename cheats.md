@@ -1,4 +1,4 @@
-1. click on the `Fork` button
+1. Click on the `Fork` button
 
 2. `git clone git@github.com:<username>/list.git`
 
@@ -6,4 +6,4 @@
 
 4. `git commit -a` and `git push origin master`
 
-5. click on the `Pull Request` button
+5. Click on the `Pull Request` button
